@@ -11,7 +11,7 @@ try:
     myconn = ms.connect(
         host="localhost",
         user="root",
-        password="Mrunalsri6-", #Hiding the password cus uk password is password 
+        password="**********", #Hiding the password cus uk password is password 
         database="supermarket_login"
     )
     if myconn.is_connected():
