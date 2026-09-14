@@ -9,9 +9,9 @@ If u want to execute this program in your device
 
 1) Make sure u have __Python 3.x__ , __MySQL__ and __mysqlconnector__ installed in your device .
 
-2) Download and Execute the code from [Database Code](SBMS/tree/main/db) in the MySQL Command Line Client to create the tables required for this program
+2) Download and Execute the code from [Database Code](db) in the MySQL Command Line Client to create the tables required for this program
 
-3) Download the python code from [Source Code](SBMS/tree/main/src) and then change the User and password in the database connection to ur set password in MySQL
+3) Download the python code from [Source Code](src) and then change the User and password in the database connection to ur set password in MySQL
 
 4) Then execute the code to run the program
 
