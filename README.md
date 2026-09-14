@@ -5,12 +5,16 @@
 A Supermarket Billing System made for small retail businesses to scan their customer's items , print the total bill and also store the customer's info in order to give offers for the next visit 
 
    Login Screen
+
+   
    <img width="422" height="312" alt="Login Screen" src="https://github.com/user-attachments/assets/d6e91f8b-76a3-4bac-a91f-2637706f6859" />
 
    Here is the login screen to the Billing system that takes username and password as the input ,
    this ensures only admin and cashiers can use this system and nobody has access to this.
 
    After Successful Login
+
+   
    <img width="422" height="312" alt="Login Success" src="https://github.com/user-attachments/assets/23b9fe6c-a774-47b0-a5ae-2aef8ed92648" />
 
    <img width="422" height="312" alt="Login Success 2" src="https://github.com/user-attachments/assets/fd76fb7e-02d8-49b1-9816-f4dd94dd9429" />
@@ -24,9 +28,13 @@ A Supermarket Billing System made for small retail businesses to scan their cust
   4) Auto-randomized unique code that is provided to each customer , which they can use to avail for discounts for next purchase
 
      Entering Customer Details and scanning the cart items
+
+     
      <img width="1359" height="768" alt="Scanning Items_Adding items" src="https://github.com/user-attachments/assets/bc1f610c-9585-45e6-9279-44fbc4888941" />
 
      Saving the customer details in the database after scanning of products
+
+     
      <img width="1366" height="728" alt="Saving items to database" src="https://github.com/user-attachments/assets/0bfeb4ba-64b2-4360-b100-82512b25b466" />
 
      Printing the bill
