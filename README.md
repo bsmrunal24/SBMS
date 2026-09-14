@@ -4,6 +4,8 @@
 
 A Supermarket Billing System made for small retail businesses to scan their customer's items , print the total bill and also store the customer's info in order to give offers for the next visit 
 
+This Software was made so that it makes it simple enough for the small businesses to use a free and open source software rather than paying or using complex ones 
+
 ## Prerequisities for running this program
 If u want to execute this program in your device 
 
@@ -59,6 +61,16 @@ If u want to execute this program in your device
      <img width="979" height="512" alt="Database Changed" src="https://github.com/user-attachments/assets/955da2b5-53ca-4d60-a69a-812e1a662427" />
 
 
+## Upcoming Features 
+
+   1) QR code generated for UPI payments
+   2) Shopping cart viewer of customer
+   3) Scanned items viewer with prices
+   4) Discounts for previously visited customers
+   5) Removal of Calendar and adding a digital date day time
+   6) Printing the Bill in .pdf and .png format and can be exported to a printer
+
+      Deciding to add more .....................
 
    
 
