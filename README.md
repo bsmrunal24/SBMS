@@ -73,6 +73,22 @@ If u want to execute this program in your device
 
       Deciding to add more .....................
 
+
+## Bibliography
+1) Tkinter Widgets Reference - (https://tkinter.com/books/TkinterWidgets.pdf)
+
+2) Tkinter by Example - (https://geossc.ma/wp-content/uploads/2020/06/Tkinter-By-
+Example.pdf)
+
+3) Tkinter Official Documentation - Python Standard Library -
+(https://docs.python.org/3/library/tk.html)
+
+4) TkDocs - Tkinter Tutorial and Reference - (https://tkdocs.com/)
+
+5) Tkinter Working with Classes -
+(https://www.digitalocean.com/community/tutorials/tkinter-working-with-classes)
+
+
    
 
 
