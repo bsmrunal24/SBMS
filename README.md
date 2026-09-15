@@ -44,7 +44,8 @@ If u want to execute this program in your device
      ### Entering Customer Details and scanning the cart items
 
      
-     <img width="1359" height="768" alt="Scanning Items_Adding items" src="https://github.com/user-attachments/assets/bc1f610c-9585-45e6-9279-44fbc4888941" />
+     <img width="1359" height="729" alt="Scanning Items_Adding items" src="https://github.com/user-attachments/assets/ac2c4725-7cf0-4972-857c-7fb23f5dc545" />
+
 
      ### Saving the customer details in the database after scanning of products
 
