@@ -70,6 +70,8 @@ If u want to execute this program in your device
    4) Discounts for previously visited customers
    5) Removal of Calendar and adding a digital date day time
    6) Printing the Bill in .pdf and .png format and can be exported to a printer
+   7) Encryption of user's data (Security update)
+   8) Encrypting Passwords in Login Screen (Security update)
 
       Deciding to add more .....................
 
