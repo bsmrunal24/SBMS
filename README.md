@@ -1,4 +1,4 @@
-# Supermarket Billing System (SBMS)
+# Supermarket Billing Management System (SBMS)
 
 **Note: The following project is still in development and new features are going to be added soon and some are going to be removed**
 
